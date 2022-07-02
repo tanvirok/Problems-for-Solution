@@ -11,5 +11,5 @@ function woodCalculator(chair, table, bed){
     let total = chair * 1 + table * 3 + bed * 5;
     return total;
 }
-let result2 = woodCalculator(5, 2, 1);
+let result2 = woodCalculator(1, 1, 1);
 console.log(result2);
