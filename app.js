@@ -1,4 +1,4 @@
-// // Feet to Mile
+// // ========== Feet to Mile
 // function feetToMile(n){
 //     let calculation = n * 0.000189394;
 //     return calculation;
@@ -6,7 +6,7 @@
 // let result1 = feetToMile(10000);
 // console.log(result1)
 
-// // Wood Calculator
+// // ========== Wood Calculator
 // function woodCalculator(chair, table, bed){
 //     let total = chair * 1 + table * 3 + bed * 5;
 //     return total;
@@ -14,7 +14,7 @@
 // let result2 = woodCalculator(1, 1, 1);
 // console.log(result2);
 
-// // Brick Calculator
+// // ========== Brick Calculator
 // function brickCalculator(n){
 //     if(n <= 10){
 //         let first10 = (15 * 1000) * n;
