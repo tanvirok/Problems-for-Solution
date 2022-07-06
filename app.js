@@ -1,3 +1,27 @@
+// ========== Eligible, likely eligible, not eligible to get Swiss visa 
+// var jobPaiso = false;
+// var savingAmount = 500;
+// if(jobPaiso == true && savingAmount > 500){
+//     console.log("Now you are eligible for getting Swiss visa");
+// }
+// else if(jobPaiso == true || savingAmount > 500){
+//     console.log("Now you may be eligible for getting Swiss visa");
+// }
+// else{
+//     console.log("I will kick you cause you are a fokinni");
+// }
+
+// // ========== Nani & Nana's height counting from Inch to Feet
+// function inchToFeet(n){
+//     let counting = n / 12 ;
+//     return counting;
+// }
+// let height = [72, 60]
+// let nanaFeet = inchToFeet(height[0]);
+// console.log(nanaFeet);
+// let naniFeet = inchToFeet(height[1]);
+// console.log(naniFeet);
+
 // // ========== Feet to Mile
 // function feetToMile(n){
 //     let calculation = n * 0.000189394;
